@@ -6,4 +6,4 @@ Overview: This analysis was conducted to assess ride sharing trends across citie
 
 Analysis: we observed the following: 
 
-https://github.com/pdmintelligence/PyBer_Analysis/blob/master/Analysis/PyBer_fare_summary.png 
+![PyBer_fare_summary](https://user-images.githubusercontent.com/95975772/151609353-dcb7822d-467e-4b2b-a085-957130d1907c.png)
